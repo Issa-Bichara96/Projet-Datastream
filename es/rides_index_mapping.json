@@ -1,0 +1,18 @@
+{
+  "mappings": {
+    "properties": {
+      "event_id":{"type":"keyword"},
+      "ts":{"type":"date","format":"strict_date_time"},
+      "agent_timestamp":{"type":"date","format":"strict_date_time"},
+      "client_id":{"type":"keyword"},
+      "driver_id":{"type":"keyword"},
+      "comfort":{"type":"keyword"},
+      "client_lat":{"type":"float"},
+      "client_lon":{"type":"float"},
+      "driver_lat":{"type":"float"},
+      "driver_lon":{"type":"float"},
+      "distance_km":{"type":"float"},
+      "price_eur":{"type":"half_float"}
+    }
+  }
+}

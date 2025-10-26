@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "mindful-future-476121-d3",
+  "private_key_id": "69e55177c5911390dcd548024ee527f4928f3b9d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDdut1fpCXTQzx+\nvgJ0mzaUwFxanw7iKrzCMJY5fA3DyhLQyuB+c4BDf+pL6w4rA30eV2LeU5P2boey\n8NP0UCj3OToL1IBH0Wr1kt9OZYUVVpRUq+QYrUTGduA/fIcY6xUEcrRgV+/8YOuB\nEgO4ZeeNu1m8m9jdPVj8YghkyAcV2QeOqQ8A1gIazZdWwRjxXnoNJpCeNsh8nTdX\nxaYff91VDbnDdUdjzxs2MSNq6j5SbDAEZMdGj+ujsLOuXTJc4Fr+KWgq5oJkFW6s\nl63RpdjFVba4FJgF2Rnu9F7EWaq36VvMcA8wg9NL37fyxpmKh0lQYDwSJwAEhgcW\nwfhljWapAgMBAAECggEAC8E1P1pEV1817OHluraspt6WXavOTh3heS5Mp1yCngQU\nG/7Y0cbEe+sHwLPfVA4C77QP2RvuL9FiaCPEcxnL81Im/I//FUZ3qvAv3ppR6Mbm\nnFf0OaHTD+4m/bRXtN+McwzY1HQlAfHX/uvsfrW+mAxOZ4DWwE60pDLpapOAbTrF\nnNq4MPN2NU/y8vf//XyJhnJ6s9jziHr0gpbA4/qzQsVMvizbcjFITcVx9SF1gbqW\nX+wU860jjc7O1Oy+TLPetIwsBA3As93Vue+tM+7ZzyWxZA9IPGlS2/O7jAq2kxpv\nRs+qwN3Qjpf8qTsQXsgZPcXYNL3B9ax8EL3a3Nj4RwKBgQDvmK6gMCEMmGKbobkH\nMEu7lFc/jqzk+S3d3SuXqVe9CA/nI77VTlvP5+xdAJnW6vXUknl8TGw8vx6WFyko\nR34nCLxnNK9yYR0Vp4LqpwDnlPKDHGdzZv9wntjN4hTACvupiyeeyrVqF7HW3MuT\nWqIIfW79J/ZQ8eHSMqLbZ+5X7wKBgQDs6Qsjwxs9a1qqD/BMl0BCDfg3HbjD1bvw\nKXvpSDFvQlhbUqovL8/bDoUhbHJNukkHim6tq/4A+rOYFjX/GoCpaOPu+Mo8QSkq\njFaOWANam6ipF6PWVYwfOh3+BklACN43TBz7iNJVEaJz62AZTwCf6RPjgqcik1O8\n7fVy0kbS5wKBgAWK1p9F/b242K8Y8prD9zyDlfEWb9FsIi97qkJ73Fe3FAcYwJVW\nlrEcgE82cFiUXtNn//9sFSTiluaJ6p3P6Y8lmJYaleRjcrTJhzG+Yzr4KxP1WD9H\nJqmIQyOgEzLODjxBx8zYi5HEsoxx1xO1iQIBRMv+XKhKsBqYqUPCB7VpAoGBAL0M\nhkgmZDFR3oqAp4fm1m8fiKgqvor/nrZZ1Dhm1JPtBGbzgzyeUaaDYrc2O8xM0AQF\ncqaB7fJIHFJLvxDvzCXjvqeuvmrwsHH0hQmXsC14s1EjvSjHIUa18MMJryA7M2A7\nC5GpL/aUWOdZt1ja0yvIKYfOdaLAn/zOgqP6qmuXAoGAUdMxYgyRA9e1X6ldHedh\n8s/mLGk8rr5cZKvFWZ+OfJ5jyDSiKWBPxS9GBwqJ3X8/+W4pqX+Sg05HU24XcVw9\nMMgVD72/HtDncOuuVB3MiWD6xR0VgElV2oA21DSKdfhRFCq1PrLnMLPDY0iaURRx\naJ/F3YcoizPUkg4zs0S8UbI=\n-----END PRIVATE KEY-----\n",
+  "client_email": "airflow-gcs-writer@mindful-future-476121-d3.iam.gserviceaccount.com",
+  "client_id": "117257896026219789373",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/airflow-gcs-writer%40mindful-future-476121-d3.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
